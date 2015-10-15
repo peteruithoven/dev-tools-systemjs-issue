@@ -1,0 +1,15 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "react": "npm:react@^0.14.0",
+      "redux-devtools": "npm:redux-devtools@^2.1.5",
+      "systemjs-debugger": "github:peteruithoven/systemjs-debugger@^0.0.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.22",
+      "babel-runtime": "npm:babel-runtime@^5.8.20",
+      "core-js": "npm:core-js@^1.1.0"
+    }
+  }
+}
